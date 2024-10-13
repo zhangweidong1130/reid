@@ -1,3 +1,5 @@
+# zhangweidong 华智reid代码
+
 # Multiple Granularity Network
 Reproduction of paper:[Learning Discriminative Features with Multiple Granularities for Person Re-Identification](https://arxiv.org/abs/1804.01438v1)
 
